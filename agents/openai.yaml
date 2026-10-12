@@ -1,0 +1,6 @@
+interface:
+  display_name: "我的写作风格"
+  short_description: "把文章、帖子和提示词写得像我：直接、口语、具体，少套话，保留事实和边界"
+  default_prompt: "使用 $my-voice，按我的日常表达习惯写作或改稿，去掉套话，保留原意和必要细节。"
+policy:
+  allow_implicit_invocation: true

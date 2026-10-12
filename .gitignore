@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/README.md
+!/SKILL.md
+!/agents/
+/agents/*
+!/agents/openai.yaml
